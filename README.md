@@ -1,9 +1,10 @@
 # Caso Práctico 3: Simulación de Procesamiento de Pedidos con AOP
+link: https://github.com/rodrigoyr/PC_CasoPracticoTema3.git
 
 ## Miembros del Grupo
 
-*   [Rodrigo Yepes Rubio]
-*   [Gabriel Hernanz Rodríguez]
+*   Rodrigo Yepes Rubio
+*   Gabriel Hernanz Rodríguez
 
 ## Explicación de la Lógica
 
