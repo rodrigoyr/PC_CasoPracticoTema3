@@ -3,7 +3,7 @@ Link con acceso al repositorio: https://github.com/rodrigoyr/PC_CasoPracticoTema
 
 ## Miembros del Grupo
 
-*   Rodrigo Yepes Rubio
+*   Rodrigo Yepes Rubio - 153750
 *   Gabriel Hernanz Rodríguez
 
 ## Explicación de la Lógica
