@@ -1,5 +1,5 @@
 # Caso Práctico 3: Simulación de Procesamiento de Pedidos con AOP
-link: https://github.com/rodrigoyr/PC_CasoPracticoTema3.git
+Link con acceso al repositorio: https://github.com/rodrigoyr/PC_CasoPracticoTema3.git
 
 ## Miembros del Grupo
 
